@@ -6,7 +6,6 @@ from collections.abc import Mapping
 from typing import Any, Literal
 
 import httpx
-
 from plugin.sdk.plugin import (
     Err,
     NekoPluginBase,
